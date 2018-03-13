@@ -3,7 +3,7 @@
 //  MyLottieApp
 //
 //  Created by marcosgn1 on 3/13/18.
-//  Copyright © 2018 Disneyland. All rights reserved.
+//  Copyright © 2018 Marcos Garcia. All rights reserved.
 //
 
 import UIKit
